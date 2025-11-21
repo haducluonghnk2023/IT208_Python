@@ -1,0 +1,14 @@
+[
+    {
+        "product_id": 1,
+        "name": "Áo polo nam",
+        "quantity": 10,
+        "price": "100000"
+    },
+    {
+        "product_id": 2,
+        "name": "Quần bò nam",
+        "quantity": 5,
+        "price": 500000
+    }
+]
