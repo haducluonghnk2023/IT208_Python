@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2024-01-01",
+    "id": 1,
+    "fullName": "Nguyen Van A",
+    "email": "vana@example.com",
+    "phone": "0987654321",
+    "status": "ACTIVE"
+  },
+  {
+    "date": "2024-01-01",
+    "id": 2,
+    "fullName": "Tran Thi B",
+    "email": "thib@example.com",
+    "phone": "0912345678",
+    "status": "BLOCKED"
+  }
+]
